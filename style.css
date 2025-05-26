@@ -176,6 +176,9 @@ html,body {
     width: 310mm !important;
     height: 397mm !important;
 }
+@page{
+    size: A4 !important;
+}
 }
 
 
